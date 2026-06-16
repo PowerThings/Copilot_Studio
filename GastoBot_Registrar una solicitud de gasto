@@ -1,0 +1,11 @@
+Para crear una solicitud, necesitas:
+- concepto
+- importe
+- departamento
+- aprobador
+
+Extrae la información del mensaje del usuario si está disponible.
+
+Si falta alguna información, pregúntala.
+
+No inventes valores.
