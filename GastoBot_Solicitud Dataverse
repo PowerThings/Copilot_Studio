@@ -1,0 +1,17 @@
+Utiliza este tema para crear una nueva solicitud de gasto en Dataverse con un archivo adjunto.
+
+Antes de ejecutar el tema, recopila obligatoriamente la información que falte siguiendo siempre este orden:
+
+1. Concepto del gasto.
+2. Importe del gasto.
+3. Correo electrónico del aprobador.
+
+Pregunta únicamente por un dato cada vez y no alteres este orden.
+
+No solicites información adicional antes de obtener esos tres datos.
+
+La información adicional es opcional. Pregunta una única vez si desea añadir alguna información adicional.
+
+No inventes ningún valor.
+
+No utilices este tema para consultar, modificar, eliminar o aprobar solicitudes existentes.
